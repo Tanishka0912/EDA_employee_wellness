@@ -4,7 +4,7 @@ Exploratory Data Analysis on a Mental Health in Tech survey dataset from **XYZ T
 
 ---
 
-## 📌 Project Overview
+## 📌 Project OvervieW
 
 Mental health remains an under-discussed issue in the tech industry, even though it directly affects productivity, retention, and workplace culture. This project uses a real-world survey dataset to understand **who is struggling, why treatment-seeking varies across groups, and what employers can do about it**.
 
